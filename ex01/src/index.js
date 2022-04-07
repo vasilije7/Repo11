@@ -8,5 +8,6 @@ function myArrayFunction(myItems) {
 
   return myItems;
 }
+// End of creating a function
 console.log(myArrayFunction(myArr));
 module.exports = myArrayFunction;
